@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(odalhatter.png);
+
+}
+
+.kupon{
+    text-align: center;
+    font-size: 80px;
+    margin-top: auto;
+    color: whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.carousel-inner{
+    width: 80%;
+    margin: auto;
+}
+
+.promoszoveg{
+    text-align: auto;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

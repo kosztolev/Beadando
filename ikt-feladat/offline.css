@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-image: url(odalhatter.png);
+}
+
+.row{
+    display: inline-block;
+}
+
+.vissza{
+    text-align: right;
+}
+
+.aracska{
+    font-size: 20px;
+}
+
+table{
+    display: inline-flex;
+    margin-left: 70px;
+    padding: auto;
+}

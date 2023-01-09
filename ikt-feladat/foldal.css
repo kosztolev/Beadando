@@ -1,0 +1,53 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image:url(odalhatter.png);
+}
+
+
+.oszoveg{
+    font-size: 100px;
+    text-align: center;
+    margin-top: auto;
+    color: whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.idezet{
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3{
+    text-align: left;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.magyarazat{
+    text-align: left;
+    font-size: 20px;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.focim{
+    font-size: 100px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.kepfelirat{
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.carousel-inner{
+    width: 70%;
+    margin: auto;
+}
